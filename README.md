@@ -12,7 +12,7 @@ Here is a look at the **TV Garden** interactive interface, featuring global TV s
 
 | 3D Globe View | Category & Channel Selector |
 | :---: | :---: |
-| ![TV Garden Globe View](https://raw.githubusercontent.com/malhi3296/TV-garden-M3u-playlists/main/screenshots/tvgarden_globe.png) | ![TV Garden Categories](https://raw.githubusercontent.com/malhi3296/TV-garden-M3u-playlists/main/screenshots/tvgarden_channels.png) |
+| ![TV Garden Globe View](https://raw.githubusercontent.com/malhi3296/TV-garden-M3u-playlists/main/screenshots/1.png) | ![TV Garden Categories](https://raw.githubusercontent.com/malhi3296/TV-garden-M3u-playlists/main/screenshots/2.png) |
 
 *(Note: Replace the image paths above with your actual screenshot URLs inside your repo's `/screenshots` folder).*
 
