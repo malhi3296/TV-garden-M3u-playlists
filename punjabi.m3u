@@ -1,0 +1,17 @@
+Amplayer
+
+1. When I press and hold any folder or item in folder select it gives me context menu to rename , delete , hide video or other option which can be useful. This feature should be available for videos, music and IPTV also ( folder or channel ) also
+2. If hide video in this app it should not be visible in any other app on phone
+3. Subtitle search is not working, when I type subtitle with keyboard openneb text area  goes behind keyboard. Text area should be above keyboard height always.
+4. Keep only these IPTV playlist de`lete every others playlist
+   Folder name : "World" playlist link: "https://iptv-org.github.io/iptv/index.m3u"
+   Folder name : "India" playlist link: "https://iptv-org.github.io/iptv/countries/in.m3u"
+   Folder name : "Punjabi" playlist link: ""
+   Folder name : "News" playlist link: ""
+   Folder name : "Sports" playlist link: ""
+
+4. When I add new IPTV playlist. It only adds one channel which is not playable treat m3u as playlist link which includes multiple channels so scan for all channels in inside playlist add folder with channels. Just try how this app does "IPTV Pro v9.1.25"
+5. Shift radio channel in music section and add all available globally free radio channel
+6. Change version from 2.4.0 to 2.4.2 everywhere 
+7. Add option to add fav channels . Make fav folder pinned at top and add all favourite channels in that folder
+8. Make folder name "youtube live" which will show all matches currently live streamed on youtube filterable by country and sports.
