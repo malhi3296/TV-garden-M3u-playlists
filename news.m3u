@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBCNews.uk" tvg-name="BBC News" tvg-language="English" tvg-type="News" group-title="Global News",BBC News
+https://bbcwshdlive01-lh.akamaihd.net/i/bbcws_1@190785/index_720_av-p.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN International" tvg-language="English" tvg-type="News" group-title="Global News",CNN International
+https://turnerlive.akamaized.net/hls/live/2003310/cnni/msl_unauth/master.m3u8
+#EXTINF:-1 tvg-id="AlJazeeraEnglish.qa" tvg-name="Al Jazeera English" tvg-language="English" tvg-type="News" group-title="Global News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="SkyNews.uk" tvg-name="Sky News" tvg-language="English" tvg-type="News" group-title="Global News",Sky News
+https://skynews.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="FoxNews.us" tvg-name="Fox News" tvg-language="English" tvg-type="News" group-title="Global News",Fox News
+https://live.foxnews.com/manifest/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CNBC.us" tvg-name="CNBC" tvg-language="English" tvg-type="Business" group-title="Business & Tech",CNBC
+https://cnbc-live.akamaized.net/hls/live/2034731/cnbclive/master.m3u8
+#EXTINF:-1 tvg-id="BloombergTV.us" tvg-name="Bloomberg Television" tvg-language="English" tvg-type="Business" group-title="Business & Tech",Bloomberg Television
+https://bloomberg.com/media-manifest/streams/us-fast.m3u8
+#EXTINF:-1 tvg-id="CNBCTV18.in" tvg-name="CNBC-TV18" tvg-language="English" tvg-type="Business" group-title="Business & Tech",CNBC-TV18
+https://cnbctv18.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="ETNow.in" tvg-name="ET Now" tvg-language="English" tvg-type="Business" group-title="Business & Tech",ET Now
+https://etnow.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="DWEnglish.de" tvg-name="DW-TV" tvg-language="English" tvg-type="News" group-title="Global News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="France 24" tvg-language="English" tvg-type="News" group-title="Global News",France 24 English
+https://f24hls-i.akamaihd.net/hls/live/221146/f24_en_hls/master.m3u8
+#EXTINF:-1 tvg-id="EuroNews.fr" tvg-name="Euro News" tvg-language="English" tvg-type="News" group-title="Global News",Euro News
+https://euronews-euronews-english-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TimesNow.in" tvg-name="Times Now" tvg-language="English" tvg-type="News" group-title="English News",Times Now
+https://timesnow.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="CNNNews18.in" tvg-name="CNN-News18" tvg-language="English" tvg-type="News" group-title="English News",CNN-News18
+https://news18-live.akamaized.net/hls/live/2003368/news18english/master.m3u8
+#EXTINF:-1 tvg-id="RepublicWorld.in" tvg-name="Republic TV" tvg-language="English" tvg-type="News" group-title="English News",Republic TV
+https://rerestart.com/republic/index.m3u8
+#EXTINF:-1 tvg-id="IndiaToday.in" tvg-name="India Today TV" tvg-language="English" tvg-type="News" group-title="English News",India Today TV
+https://indiatodaylive.akamaized.net/hls/live/2014729/indiatoday/master.m3u8
+#EXTINF:-1 tvg-id="NDTV24x7.in" tvg-name="NDTV 24x7" tvg-language="English" tvg-type="News" group-title="English News",NDTV 24x7
+https://cph-p2-msl.akamaized.net/hls/live/2003415/test/master.m3u8
+#EXTINF:-1 tvg-id="WION.in" tvg-name="WION" tvg-language="English" tvg-type="News" group-title="English News",WION
+https://live-wion.zee5.com/wion/wion-ipad.m3u8
+#EXTINF:-1 tvg-id="NewsX.in" tvg-name="NewsX" tvg-language="English" tvg-type="News" group-title="English News",NewsX
+https://newsx.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="MirrorNow.in" tvg-name="Mirror Now" tvg-language="English" tvg-type="News" group-title="English News",Mirror Now
+https://mirrornow.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="AajTakHD.in" tvg-name="Aaj Tak HD" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",Aaj Tak HD (1080p)
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-id="DDNews.in" tvg-name="DD News" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",DD News
+https://ddnewslive.akamaized.net/hls/live/2039294/ddnews/master.m3u8
+#EXTINF:-1 tvg-id="ABPNews.in" tvg-name="ABP News" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",ABP News
+https://abp-live.akamaized.net/hls/live/2039281/abpnews/master.m3u8
+#EXTINF:-1 tvg-id="IndiaTV.in" tvg-name="India TV" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",India TV
+https://indiatv.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="RepublicBharat.in" tvg-name="Republic Bharat" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",Republic Bharat
+https://rbharat.akamaized.net/hls/live/2039290/rbharat/master.m3u8
+#EXTINF:-1 tvg-id="ZeeNews.in" tvg-name="Zee News" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",Zee News
+https://zeenews-live.zee5.com/zeenews/zeenews-ipad.m3u8
+#EXTINF:-1 tvg-id="News18India.in" tvg-name="News18 India" tvg-language="Hindi" tvg-type="News" group-title="Hindi News",News18 India
+https://news18-live.akamaized.net/hls/live/2003368/news18hindi/master.m3u8
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" tvg-language="Punjabi" tvg-type="News" group-title="Punjabi News",PTC News
+https://ptcnews.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="FastwayNews.in" tvg-name="Fastway News" tvg-language="Punjabi" tvg-type="News" group-title="Punjabi News",Fastway News
+https://live.fastway.in/hls/news/index.m3u8
+#EXTINF:-1 tvg-id="ZeePunjabHaryana.in" tvg-name="Zee Punjab Haryana Himachal" tvg-language="Punjabi" tvg-type="News" group-title="Punjabi News",Zee Punjab Haryana Himachal
+https://zeepunjab-live.zee5.com/zeepunjab/zeepunjab-ipad.m3u8
+#EXTINF:-1 tvg-id="News18Punjab.in" tvg-name="News18 Punjab" tvg-language="Punjabi" tvg-type="News" group-title="Punjabi News",News18 Punjab
+https://news18-live.akamaized.net/hls/live/2003368/news18punjab/master.m3u8
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" tvg-language="Punjabi" tvg-type="General" group-title="Punjabi News",PTC Punjabi
+https://ptcpunjabi.live-s.atcdn.co.uk/index.m3u8
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" tvg-language="Punjabi" tvg-type="General" group-title="Punjabi News",DD Punjabi
+https://ddpunjabilive.akamaized.net/hls/live/2039295/ddpunjabi/master.m3u8
