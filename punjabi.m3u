@@ -1,17 +1,69 @@
-Amplayer
+#EXTM3U
+#EXTINF:-1 tvg-id="DDPunjabi.in" tvg-name="DD Punjabi" group-title="Punjabi",DD Punjabi
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/DDPunjabi/default/index.m3u8
 
-1. When I press and hold any folder or item in folder select it gives me context menu to rename , delete , hide video or other option which can be useful. This feature should be available for videos, music and IPTV also ( folder or channel ) also
-2. If hide video in this app it should not be visible in any other app on phone
-3. Subtitle search is not working, when I type subtitle with keyboard openneb text area  goes behind keyboard. Text area should be above keyboard height always.
-4. Keep only these IPTV playlist de`lete every others playlist
-   Folder name : "World" playlist link: "https://iptv-org.github.io/iptv/index.m3u"
-   Folder name : "India" playlist link: "https://iptv-org.github.io/iptv/countries/in.m3u"
-   Folder name : "Punjabi" playlist link: ""
-   Folder name : "News" playlist link: ""
-   Folder name : "Sports" playlist link: ""
+#EXTINF:-1 tvg-id="PTCPunjabi.in" tvg-name="PTC Punjabi" group-title="Punjabi",PTC Punjabi
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-4. When I add new IPTV playlist. It only adds one channel which is not playable treat m3u as playlist link which includes multiple channels so scan for all channels in inside playlist add folder with channels. Just try how this app does "IPTV Pro v9.1.25"
-5. Shift radio channel in music section and add all available globally free radio channel
-6. Change version from 2.4.0 to 2.4.2 everywhere 
-7. Add option to add fav channels . Make fav folder pinned at top and add all favourite channels in that folder
-8. Make folder name "youtube live" which will show all matches currently live streamed on youtube filterable by country and sports.
+#EXTINF:-1 tvg-id="PTCNews.in" tvg-name="PTC News" group-title="Punjabi",PTC News
+https://d2hy7fg81el2ij.cloudfront.net/out/v1/986960cfdfa542b98dfec1192e21b7ce/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCSimran.in" tvg-name="PTC Simran" group-title="Punjabi",PTC Simran
+https://d2p81yq18e6yfa.cloudfront.net/out/v1/f98921df3bc24e868bf656a5dbbe72a2/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-name="PTC Chakde" group-title="Punjabi",PTC Chakde
+https://d31w4g1761tllp.cloudfront.net/out/v1/f15ce110adcf4948a3a25ef206085a5e/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCGold.in" tvg-name="PTC Gold" group-title="Punjabi",PTC Gold
+https://d350s1n7iijrsm.cloudfront.net/out/v1/d89ff752bf0147ae87b3fc4abfa4cfb9/index.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-name="PTC Music" group-title="Punjabi",PTC Music
+https://d2y78uaw349edb.cloudfront.net/out/v1/66cb839b2fa94fb0bfcebc33d5ba4b90/index.m3u8
+
+#EXTINF:-1 tvg-id="ZeePunjabi.in" tvg-name="Zee Punjabi" group-title="Punjabi",Zee Punjabi
+https://ziddm-live.akamaized.net/out/v1/56c68bfca7b64082875b81a7d6db6c40/index.m3u8
+
+#EXTINF:-1 tvg-id="ABPSanjha.in" tvg-name="ABP Sanjha" group-title="Punjabi",ABP Sanjha
+https://abp-i.akamaized.net/hls/live/2040682/abpsanjha/master.m3u8
+
+#EXTINF:-1 tvg-id="News18PunjabHaryanaHimachalPradesh.in" tvg-name="News18 Punjab Haryana Himachal Pradesh" group-title="Punjabi",News18 Punjab Haryana Himachal Pradesh
+https://news18hls-lh.akamaihd.net/i/n18punjab_1@508757/master.m3u8
+
+#EXTINF:-1 tvg-id="FatehTV.in" tvg-name="Fateh TV" group-title="Punjabi",Fateh TV
+https://175.176.184.11:1935/live/fatehtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AkaalTV.in" tvg-name="Akaal TV" group-title="Punjabi",Akaal TV
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv-video=1500000-audio_AACL_eng_65600_120=65600.m3u8
+
+#EXTINF:-1 tvg-id="AonePunjabi.in" tvg-name="Aone Punjabi" group-title="Punjabi",Aone Punjabi
+http://live.cloud6.in:1935/live2/aonetv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ApnaPunjab.in" tvg-name="Apna Punjab" group-title="Punjabi",Apna Punjab
+http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GlobalPunjabTV.in" tvg-name="Global Punjab TV" group-title="Punjabi",Global Punjab TV
+http://207.244.112.71/globalpunjabhls/live.m3u8
+
+#EXTINF:-1 tvg-id="MHOne.in" tvg-name="MH One" group-title="Punjabi",MH One
+https://mhone-live.akamaized.net/out/v1/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneNews.in" tvg-name="MH One News" group-title="Punjabi",MH One News
+https://mhonenews-live.akamaized.net/out/v1/index.m3u8
+
+#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-name="MH One Shraddha" group-title="Punjabi",MH One Shraddha
+https://mhoneshraddha-live.akamaized.net/out/v1/index.m3u8
+
+#EXTINF:-1 tvg-id="PrimeAsiaTV.in" tvg-name="Prime Asia TV" group-title="Punjabi",Prime Asia TV
+http://primeasia.dyndns.tv:8080/Live_web_2500/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-name="9X Tashan" group-title="Punjabi",9X Tashan
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XTashan/default/index.m3u8
+
+#EXTINF:-1 tvg-id="LivingIndiaNews.in" tvg-name="Living India News" group-title="Punjabi",Living India News
+http://live.livingindianews.co.in/hls/stream.m3u8
+
+#EXTINF:-1 tvg-id="ChakdeTV.in" tvg-name="Chakde TV" group-title="Punjabi",Chakde TV
+http://chakdetv.com/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="KTVPunjabi.in" tvg-name="KTV Punjabi" group-title="Punjabi",KTV Punjabi
+http://ktv.stream:1935/live/ktv/playlist.m3u8
